@@ -1,0 +1,45 @@
+.home__button {
+    color: white;
+    padding: 10px 20px;
+    background-color: #0b633f;
+    border: none;
+    border-radius: 8px;
+    text-transform: uppercase;
+}
+
+.--menu {
+    margin-bottom: 20px;
+}
+
+.home__header {
+    position: relative;
+    padding: 40px;
+}
+
+.home__nav {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.home__container {
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.home__title {
+    color: white;
+    text-align: center;
+}
+
+.home__image {
+    width: 400px;
+}
+
+.home__menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

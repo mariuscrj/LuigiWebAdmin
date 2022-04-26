@@ -1,0 +1,82 @@
+.form {
+    max-width: 1000px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.label {
+    display: block;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.form {
+    text-align: center;
+}
+
+.input {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    padding-left: 20px;
+    height: 30px;
+    border-radius: 8px;
+    border: 2px solid #0b633f;
+}
+
+.select {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    height: 30px;
+    border-radius: 8px;
+    border: 2px solid #0b633f; 
+}
+
+.submit {
+    margin-right: 10px;
+    color: white;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #0b633f;
+    border: none;
+    border-radius: 8px;
+    text-transform: uppercase;
+}
+
+.courses {
+    padding-bottom: 100px;
+}
+
+.paddingBot {
+    padding-bottom: 100px;
+}
+
+.column {
+    max-width: 400px;
+    width: 100%;
+}
+
+.faculties__forms {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.histories__form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.courses__form {
+    display: flex;
+    justify-content: space-between;
+}
+
+.users__form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

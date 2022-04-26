@@ -1,0 +1,13 @@
+.loading {
+    color: white;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.error__message {
+    color: white;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 20%;
+}
